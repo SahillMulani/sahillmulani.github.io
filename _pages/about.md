@@ -14,17 +14,17 @@ Hello, I'm **Sahil Mulani**. I'm currently a **Master's student in Data Analytic
 
 ## Education
 
-- **Master of Science in Data Analytics**  
+**Master of Science in Data Analytics**  
   *National College of Ireland, San Dublin*  
   Expected September 2024 | Current GPA: 2:1
 
-- **Bachelor of Technology in Computer Science**  
+**Bachelor of Technology in Computer Science**  
   *MIT Academy of Engineering, Pune*  
   Graduated June 2021 | GPA: 8.54/10.0
 
 ## Professional Experience
 
-- **Bank of America**  
+**Bank of America**  
   *Dublin, Ireland*  
   Feb 2024 - Aug 2024  
 - Worked on the development of various features of GRIFFIN Platform using Java and Angular.  
@@ -36,7 +36,7 @@ resulting in a more stable and secure codebase.
 - Updated the httpd logs and Splunk dashboard to reflect the timings of the logs in milliseconds. 
 **Skills**: Java · Angular · Typescript · Agile· SDLC 
 
-- **Software Engineer**  
+**Software Engineer**  
   *Vodafone Intelligent Solutions*  
   August 2020 – August 2023  
 - Worked on Data Transformation as a Service Platform, known as Mozart. 
@@ -45,7 +45,7 @@ resulting in a more stable and secure codebase.
 - Developed a custom JSON file editor application tailored to the requirements of Vodafone Germany, utilizing Python GUI and programming. 
 - Collaborated within an Agile SDLC environment, participating in daily scrum meetings and ensuring the timely delivery of customer requirements within each sprint. 
 **Skills**: Python (Programming Language) · Python GUI · Apache Airflow · Agile· SDLC 
-- **Summer Intern**  
+**Summer Intern**  
   *CppSecrets.com*  
   August 2020 – August 2023  
 - Contributed professional C++ 11/14/17 Code for implementation of Data Structure and Various Associated Problems.
@@ -54,11 +54,11 @@ resulting in a more stable and secure codebase.
 
 ## Research and Projects
 
-- **Bachelors’s Research: Fertilizer Distribution in Agriculture using Wireless Sensor Networks**  
+**Bachelors’s Research: Fertilizer Distribution in Agriculture using Wireless Sensor Networks**  
   Under Dr. Manish Giri  
 - Analysis of Fertilizer Distribution in Agriculture using Wireless Sensor Networks: Review Grenze International Journal of Engineering and Technology, July Issue, 2020 
 
-- **Master's Research: Compartive Performance Analysis of Classical vs Quantum Machine Learning**  
+**Master's Research: Compartive Performance Analysis of Classical vs Quantum Machine Learning**  
   Under Dr. Paul Stynes
 - Analyzed the performance of Variational Quantum Classifiers (VQC) and Quantum Support Vectors against the Classical Machine Learning Models 
 
