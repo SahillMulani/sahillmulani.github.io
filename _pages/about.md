@@ -24,21 +24,21 @@ Hello, I'm **Sahil Mulani**. I'm currently a **Master's student in Data Analytic
 
 ## Professional Experience
 
-**Bank of America**  
+**Bank of America - SDE Intern**  
   *Dublin, Ireland*  
   Feb 2024 - Aug 2024  
 - Worked on the development of various features of GRIFFIN Platform using Java and Angular.  
 
 **Skills**: Java · Angular · Typescript · Agile· SDLC 
 
-**Software Engineer**  
+**Vodafone Intelligent Solutions - Software Engineer**  
   *Vodafone Intelligent Solutions*  
   August 2020 – August 2023  
 - Created services to Transform data using Python and Utilized Apache Airflow to design and schedule orchestrated workflows for data transformation tasks. 
 **Skills**: Python (Programming Language) · Python GUI · Apache Airflow · Agile· SDLC 
 
-**Summer Intern**  
-  *CppSecrets.com*  
+**CppSecrets.com - Summer Intern**  
+  *Pune, India*  
   August 2020 – August 2023  
 - Contributed professional C++ 11/14/17 Code for implementation of Data Structure and Various Associated Problems.
 
