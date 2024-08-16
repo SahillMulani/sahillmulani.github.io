@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 
-Summary
+Sahil Arif Mulani
 =======
-**Availability & Visa Information:**
-- Eligible to apply for the **Stamp 1G Visa** & work full time from September 2024 **without requiring a work permit for 2 years** under the Third Level Graduate Scheme. 
+**Dublin, Ireland**   
+[GMail](mailto:smulani239@gmail.com) | [LinkedIn](https://www.linkedin.com/in/smulani) | [GitHub](http://github.com/SahillMulani) 
 
 Education
 ======
