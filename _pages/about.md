@@ -20,7 +20,7 @@ Hello, I'm **Sahil Mulani**. I'm currently a **Master's student in Data Analytic
 
 **Bachelor of Technology in Computer Science**  
   *MIT Academy of Engineering, Pune*  
-  Graduated June 2021 | GPA: 8.54/10.0
+  Graduated June 2021 | GPA: 7.64/10.0
 
 ## Professional Experience
 
