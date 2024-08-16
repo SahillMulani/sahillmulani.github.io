@@ -28,28 +28,20 @@ Hello, I'm **Sahil Mulani**. I'm currently a **Master's student in Data Analytic
   *Dublin, Ireland*  
   Feb 2024 - Aug 2024  
 - Worked on the development of various features of GRIFFIN Platform using Java and Angular.  
-- Performed root cause analysis of production issues and gave solutions with implementation to mitigate the issue. 
-- Improved the code coverage for GRIFFIN backend from 40% to 60% and GRIFFIN front end from 57% to 80% 
-enhancing overall code quality and reliability. 
-- Resolved over 5000+ issues highlighted by Sonar-Qube, including major bugs, vulnerabilities, and code smells, 
-resulting in a more stable and secure codebase. 
-- Updated the httpd logs and Splunk dashboard to reflect the timings of the logs in milliseconds. 
+
 **Skills**: Java · Angular · Typescript · Agile· SDLC 
 
 **Software Engineer**  
   *Vodafone Intelligent Solutions*  
   August 2020 – August 2023  
-- Worked on Data Transformation as a Service Platform, known as Mozart. 
 - Created services to Transform data using Python and Utilized Apache Airflow to design and schedule orchestrated workflows for data transformation tasks. 
-- Led a critical component of the Mozart Platform called Deltinator, responsible for calculating deltas between incoming files. 
-- Developed a custom JSON file editor application tailored to the requirements of Vodafone Germany, utilizing Python GUI and programming. 
-- Collaborated within an Agile SDLC environment, participating in daily scrum meetings and ensuring the timely delivery of customer requirements within each sprint. 
 **Skills**: Python (Programming Language) · Python GUI · Apache Airflow · Agile· SDLC 
+
 **Summer Intern**  
   *CppSecrets.com*  
   August 2020 – August 2023  
 - Contributed professional C++ 11/14/17 Code for implementation of Data Structure and Various Associated Problems.
-- Organized a Workshop on "OOPs" as representative and lead resource person of Cppsecrets.com
+
 **Skills**: Cpp · Agile· SDLC
 
 ## Research and Projects
@@ -71,16 +63,10 @@ resulting in a more stable and secure codebase.
 
 **Vodafone Intelligent Solutions, _VOIS** 
 - 3 x Vodafone Star Award Winner for being the top performer. 
-- Volunteered for a 2-day a week computer literacy program for rural schools, as part of the 
-National Service Scheme, an Indian government-sponsored public service program. 
-- Volunteered as an ally of LGBT+ to create a safe and inclusive environment for LGBT+ people in 
-our company.
 
 **Bank of America**
 - Volunteered for a gardening event at St. Michael’s House Grosvenor Special School, Leopards 
 town, Dubin 18. 
-- Led the organization of a coding principles learning program aimed at introducing 
-fundamental programming concepts to diverse audience.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/smulani/) or check out my projects on [GitHub](https://github.com/SahillMulani).
 

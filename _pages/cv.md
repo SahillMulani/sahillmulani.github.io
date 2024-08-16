@@ -44,8 +44,9 @@ resulting in a more stable and secure codebase.
 - Collaborated within an Agile SDLC environment, participating in daily scrum meetings and ensuring the timely delivery of customer requirements within each sprint. 
 
 **Skills**: Python (Programming Language) · Python GUI · Apache Airflow · Agile· SDLC 
-**Summer Intern**  
-  *CppSecrets.com*  
+
+## CppSecrets.com : Summer Intern  
+  *Pune, India*  
   August 2020 – August 2023  
 - Contributed professional C++ 11/14/17 Code for implementation of Data Structure and Various Associated Problems.
 - Organized a Workshop on "OOPs" as representative and lead resource person of Cppsecrets.com
@@ -83,8 +84,8 @@ Projects
 
 Publications
 ======
-  <ul>Analysis of Fertilizer Distribution in Agriculture using Wireless Sensor Networks: Review 
-Grenze International Journal of Engineering and Technology, July Issue, 2020 </ul>
+- Analysis of Fertilizer Distribution in Agriculture using Wireless Sensor Networks: Review 
+Grenze International Journal of Engineering and Technology, July Issue, 2020 
 
 Awards and Extracurricular Activities  
 ========== 
