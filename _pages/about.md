@@ -10,7 +10,7 @@ redirect_from:
 
 # Welcome to My Personal Page
 
-Hello, I'm **Sahil Mulani**. I'm currently a **Master's student in Data Analytics at the National College of Ireland, Dublin (NCI)**, expecting to graduate in Septembet 2024. 
+Hello, I'm **Sahil Mulani**. I'm currently a **Master's student in Data Analytics** at the National College of Ireland, Dublin (NCI), expecting to graduate in Septembet 2024. 
 
 ## Education
 
@@ -64,13 +64,23 @@ resulting in a more stable and secure codebase.
 
 ## Technical Skills
 
-- **Languages:** Java, Python, C/C++, JavaScript, Bash, SQL, HTML, LaTeX
+- **Languages:** Python, Java, Typescript, JavaScript 
 - **Frameworks & Tools:** Pytorch, Scikit Learn, Linux, Git, GDB, Angular, Springboot
 
-## Extracurricular Activities
+## Awards & Extracurricular Activities
 
-- **VP of Technology**, Data Science Graduate Association, UC San Diego
-- **Former President of Student Association**, 'Ekasutram' Mathematics Club, Vishwakarma Institute of Technology, Pune
+**Vodafone Intelligent Solutions, _VOIS** 
+- 3 x Vodafone Star Award Winner for being the top performer. 
+- Volunteered for a 2-day a week computer literacy program for rural schools, as part of the 
+National Service Scheme, an Indian government-sponsored public service program. 
+- Volunteered as an ally of LGBT+ to create a safe and inclusive environment for LGBT+ people in 
+our company.
+
+**Bank of America**
+- Volunteered for a gardening event at St. Michael’s House Grosvenor Special School, Leopards 
+town, Dubin 18. 
+- Led the organization of a coding principles learning program aimed at introducing 
+fundamental programming concepts to diverse audience.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/smulani/) or check out my projects on [GitHub](https://github.com/SahillMulani).
 
