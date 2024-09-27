@@ -23,5 +23,5 @@ main:
   - title: "CV"
     url: /cv/
   
-  - title: "ads"
-    url: /ads.txt/
+  # - title: "ads"
+  #   url: /ads.txt/
