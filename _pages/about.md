@@ -10,7 +10,7 @@ redirect_from:
 
 # Welcome to My Personal Page
 
-Hello, I'm **Sahil Mulani**. I'm currently a **Master's student in Data Analytics** at the National College of Ireland, Dublin (NCI), expecting to graduate in Septembet 2024. 
+Hello, I'm **Sahil Mulani**. I'm currently working as **SDE** at the AWS, Dublin.
 
 ## Education
 
@@ -23,6 +23,11 @@ Hello, I'm **Sahil Mulani**. I'm currently a **Master's student in Data Analytic
   Graduated June 2021 | GPA: 7.64/10.0
 
 ## Professional Experience
+
+**AWS - SDE**  
+  *Dublin, Ireland*  
+  Nov 2024 - Present 
+- Building and Orchestrating Services for DynamoDB.  
 
 **Bank of America - SDE Intern**  
   *Dublin, Ireland*  
