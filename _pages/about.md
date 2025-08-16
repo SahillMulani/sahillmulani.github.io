@@ -27,7 +27,9 @@ Hello, I'm **Sahil Mulani**. I'm currently working as **SDE** at the AWS, Dublin
 **AWS - SDE**  
   *Dublin, Ireland*  
   Nov 2024 - Present 
-- Building and Orchestrating Services for DynamoDB.  
+- Building and Orchestrating Services for DynamoDB.
+  
+**Skills**: Java · Ruby · Typescript ·
 
 **Bank of America - SDE Intern**  
   *Dublin, Ireland*  
